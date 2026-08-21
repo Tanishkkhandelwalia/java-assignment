@@ -1,0 +1,10 @@
+Food Delivery Management System
+Restaurant: FoodExpress
+
+Sample run:
+Order 101 - Regular - Rs. 500.00
+Discount: Rs. 50.00
+Delivery Charge: Rs. 80.00
+Final Payable: Rs. 530.00
+
+Total Orders Created: 6
