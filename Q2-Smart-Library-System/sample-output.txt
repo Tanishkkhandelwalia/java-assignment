@@ -1,0 +1,6 @@
+Smart Library Resource Management System
+Library: Central University Library
+
+5 resources displayed.
+Total Fine: Rs. 74.00
+Total Resources Created: 5
